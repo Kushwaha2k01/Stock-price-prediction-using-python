@@ -11,3 +11,4 @@ Python is a programming language that may be used to anticipate the stock market
 
 **SCREENSHOTS**
 
+![logo](https://github.com/Kushwaha2k01/Stock-price-prediction-using-python/blob/main/Enter%20The%20Stock%20Name%20.png)
