@@ -9,6 +9,10 @@ In many practical applications, including forecasting the weather and the financ
 
 Python is a programming language that may be used to anticipate the stock market by looking at previous stock market data and estimating future market trends and movements using machine learning algorithms and statistical analysis. This may be utilized by investors and traders to make well-informed choices on the purchase and selling of stocks. Python may also be used to create automated trading systems that can behave in line with the model's predictions and react in real time to market movements. The primary objective of utilizing Python for stock market forecasting is to boost trading profitability while enhancing the accuracy and efficacy of investment decisions.
 
+**INSTALL PACKAGE**
+
+pip install yfinance
+
 **SCREENSHOTS**
 
   **Enter Stock Name**
